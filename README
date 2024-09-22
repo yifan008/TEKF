@@ -1,0 +1,6 @@
+# Simulation for T-EKF/I-EKF/FEJ/EKF/UKF
+
+## Runing: python sim.py
+
+## Note: FEJ might be divergent if the probability is low
+
