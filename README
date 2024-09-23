@@ -4,3 +4,9 @@
 
 ## Note: FEJ might be divergent if the probability is low
 
+## ekf--EKF
+## ukf--UKF
+## fej--FEJ
+## inv--I-EKF
+## kdl--T-EKF
+
